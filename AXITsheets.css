@@ -1,0 +1,201 @@
+.con{
+  height:70vh;
+}
+.con5{
+  height:30vh;
+}
+.SetPosition{
+  position: absolute;
+  left: 360px;
+  top:-53px;
+}
+.SetPositions{
+  position : absolute;
+  top: -18px;
+  left:360px;
+}
+.SetPositions2{
+  position : absolute;
+  top: 150px;
+  left:360px;
+}
+.BtnPosition{
+  Position:absolute;
+  top:273px;
+  left:368px;
+}
+.ImgPositon {
+  position:absolute;
+  top:50px;
+  left:900px;
+}
+.DenmarkImg{
+  position: relative;
+  margin-top: 30px;
+}
+.Margining{
+  margin-top: 100px;
+}
+.hr{
+  position: relative;
+  width:90px;
+  background-color: orangered;
+  left: -170px;
+}
+.TitlePosition{
+  position: relative;
+  left:100px;
+}
+.CloudDownload{
+  position: relative;
+  color: orangered;
+  top:-207px;
+  left:55px;
+}
+
+.TitlePosition2{
+  position: relative;
+  left:100px;
+  top:39px;
+}
+.CloudDownload2{
+  position: relative;
+  color: orangered;
+  top:-64px;
+  left:30px;
+}
+.padd{
+   padding-left: 200px;
+   padding-top: 30px;
+}
+.hrstyling {
+  width:60px;
+  background-color: orangered;
+  margin-right: 500px;
+}
+.hrstyle{
+  width:50px;
+  padding-left:50px;
+  background-color: orangered;
+}
+.bulbstyle{
+  color:orangered;
+  position:absolute;
+  padding-left: 200px;
+  top:100px;
+}
+.keyboardstyle{
+  color:orangered;
+  padding-left: 170px;
+  padding-top: 100px;
+}
+.lightstyle{
+  color:orangered;
+  padding-left: 150px;
+  padding-top:102px;
+}
+.hrstyle1{
+  width:50px;
+  padding-left:-1px;
+  background-color: orangered;
+}
+.con1{
+  height: 115vh;
+}
+.divcardstyle{
+  background-color: orangered;
+  height: 1vh;
+}
+.divstyle{
+  background-color: white;
+  height: 1vh;
+}
+.divcard1style{
+  background-color: orangered;
+  height: 3vh;
+}
+.picstyle {
+  border-radius: 100px;
+  width:50px;
+  height:50px;
+}
+.hrsylte1{
+  width:60px;
+  padding-left: 50px;
+  color:darkorange;
+}
+.textbox{
+  border :none;
+  border-bottom:1px solid #eee;
+  margin-bottom: 30px;
+}
+.btnplace{
+  padding-left: 495px;
+}
+.lastdiv{
+  background-color: black;
+  height:8vh;
+}
+.fa-plus{
+  font-size: 9px;
+}
+.fa-copyright{
+  font-size:12px;
+}
+.circle{
+  border-radius: 200px;
+  border: 1px solid darkorange;
+  width:50px;
+  height: 50px;
+  margin-top:-55px;
+  margin-left:19px;
+}
+.circle1{
+  border-radius: 200px;
+  border: 1px solid darkorange;
+  width:50px;
+  height: 50px;
+  margin-top: -15px;
+  margin-left:20px;
+}
+.TAB1{
+  width: 100px;
+  height : 100px;
+  background-color: darkorange;
+  position:absolute;left:40px;top:-35px;
+}
+.TAB2{
+  width :100px;
+  height: 100px;
+  background-color:#484848;
+  position: absolute;
+  top:66px;
+  left:40px;
+}
+.TAB3{
+  width :100px;
+  height: 100px;
+  background-color:#484848;
+  position: absolute;
+  top:167px;
+  left:40px;
+}
+.imgstyle{
+  width:1139px;
+  height:800px;
+}
+.mycon{
+  height:150vh;
+}
+.divunderimage{
+  background-color: white;
+  height: 12vh;
+  width:1139px;
+}
+.c{
+  background-image: url(1.jpg);
+  width:1139px;
+  height:830px;
+  position: absolute;
+  top:-40px;
+}
